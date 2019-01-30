@@ -6,6 +6,7 @@ I am enjoying here distributed version control system
 
 
 Git is created by Linus Torvald
+who have been created Linux
 
 
 thanks & regards 
